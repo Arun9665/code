@@ -1,0 +1,26 @@
+[
+    {
+        "donor": "amit",
+        "item": "pizz",
+        "quantity": "10",
+        "status": "available"
+    },
+    {
+        "donor": "ajinky",
+        "item": "pizz, vadpav, samus, patisa",
+        "quantity": "100",
+        "status": "available"
+    },
+    {
+        "donor": "f",
+        "item": "xx",
+        "quantity": "78",
+        "status": "taken"
+    },
+    {
+        "donor": "sd",
+        "item": "ads",
+        "quantity": "201",
+        "status": "available"
+    }
+]
